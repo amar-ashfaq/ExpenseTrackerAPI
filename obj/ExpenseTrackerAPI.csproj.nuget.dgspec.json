@@ -11,7 +11,7 @@
         "projectName": "ExpenseTrackerAPI",
         "projectPath": "C:\\Users\\amara\\source\\repos\\ExpenseTrackerAPI\\ExpenseTrackerAPI.csproj",
         "packagesPath": "C:\\Users\\amara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amara\\source\\repos\\ExpenseTrackerAPI\\obj\\",
+        "outputPath": "C:\\Users\\amara\\Source\\Repos\\ExpenseTrackerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
